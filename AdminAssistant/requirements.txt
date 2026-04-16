@@ -1,0 +1,6 @@
+1. System operacyjny: Windows 10/11 (wymagane do poprawnego działania generowanych komend CMD).
+2. Środowisko: Qt Creator (Qt 6.5 lub nowszy).
+3. Kompilator: obsługujący C++17 (np. MinGW 64-bit).
+4. Zależności CMake: Qt6::Core, Qt6::Widgets, Qt6::Network, Qt6::Test.
+5. Zewnętrzne oprogramowanie: Ollama (v0.1.30 lub nowsza).
+6. Lokalny model językowy: Qwen 2.5 3B (uruchomiony na porcie domyślnym localhost:11434).

@@ -1,0 +1,8 @@
+PROJECT_NAME           = "AdminAssistant"
+OUTPUT_DIRECTORY       = doc
+INPUT                  = .
+RECURSIVE              = YES
+GENERATE_LATEX         = NO
+GENERATE_HTML          = YES
+EXTRACT_ALL            = YES
+EXTRACT_PRIVATE        = YES
